@@ -1,0 +1,16 @@
+# Backup files
+*.backup.*
+index.backup.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vercel
+.vercel
